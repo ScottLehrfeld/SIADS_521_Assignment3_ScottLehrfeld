@@ -13,7 +13,6 @@ This repository contains the files for my SIADS_521 Assignment 3 project.
 | `assignment3_code.ipynb` | Notebook containing the Python code used for data cleaning, visualization creation, and dashboard development |
 | `assignment3.ipynb` | Notebook containing the written narrative, visualization explanations, methodology, and dashboard demonstration |
 | `assignment3.pdf` | PDF version of the narrative notebook for easier viewing |
-| `video` | Dashboard demonstration video |
 
 ---
 
@@ -22,6 +21,14 @@ This repository contains the files for my SIADS_521 Assignment 3 project.
 The completed dashboard is available through Google Colab:
 
 [Open Dashboard in Google Colab](https://colab.research.google.com/drive/1nZDjuKH3kz2u8_NDFoINokE1v3slrMc6?usp=sharing)
+
+---
+
+## Video Demo of Dashboard
+
+I was able to save my video on Google Drive:
+
+[Open Demo in Google Drive](https://drive.google.com/file/d/1O6mGOc5fXtw8Bwzp2ZhLX7GW-trGRyds/view?usp=sharing)
 
 ---
 
